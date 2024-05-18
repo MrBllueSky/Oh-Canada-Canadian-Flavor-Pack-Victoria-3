@@ -1,0 +1,203 @@
+﻿acadian={
+	color= rgb{ 158 239 240 }
+	religion = catholic
+	traits = { francophone european_heritage }
+	male_common_first_names={
+		Adolphe
+		Alain
+		Alphonse
+		Athanase
+		Auguste-Real
+		Charles
+		Charles-Seraphin
+		Denis-Benjamin
+		Dionel
+		Elzear
+		Etienne-Paschal
+		Francois-Edouard
+		George-Etienne
+		Georges
+		Gilles
+		Guillaume
+		Guillaume-Alphonse
+		Hector-Louis
+		Henri
+		Hermenegilde
+		Honore
+		Jacques
+		Jean
+		Jean-Baptiste
+		Jean-Docile
+		Jean-Paul
+		Joseph
+		Joseph-Oscar
+		Joseph-Remi
+		Laurent-Olivier
+		Leandre
+		Louis-Adelard
+		Louis-Joseph
+		Louis-Olivier
+		Louis-Philippe
+		Louis-Rodrigue
+		Marcel
+		Mathieu
+		Michel
+		Narcisse-Fortunat
+		Napoleon
+		Olivier
+		Olivier-Napoleon
+		Pierre
+		Pierre-Aurele
+		Pierre-Stanislas
+		RenE_-E_douard
+		Simon-Napoleon
+		Telesphore
+		Theodore
+		Theophile
+		Ulric-Joseph
+		Valmont
+	}
+	female_common_first_names = {
+		Andrea
+		Anne-Marie
+		Antonia
+		Antonine
+		Azelie
+		Blanche
+		Catherine
+		Charlotte
+		Cora
+		Denise
+		Dina
+		Edith_2
+		Elise
+		Elizabeth
+		Ellen
+		Elmire
+		Esther
+		Grace
+		Helene_2
+		Henriette
+		Isabelle
+		Jacqueline
+		Jeanne
+		Josephine
+		Julie
+		Louise
+		Marcia
+		Marie
+		Marie-Amable
+		Marie-Anne
+		Marie-Louise
+		Marinda
+		Marjolaine
+		Maxime
+		Pierrette
+		Philloma
+		Raymonde
+		Sophie
+		Yvette
+	}	
+	noble_last_names = {
+		Bedard
+		Bellemare
+		Cartier
+		David
+		Papineau
+		Surrette
+	}
+	common_last_names={
+		Alleyn
+		Angers
+		Asselin
+		Babineau
+		Belleau
+		Bourassa
+		Brosseau
+		Cauchon
+		Dumouchel
+		Duval
+		Faucher
+		Fremont
+		Gallant
+		Garneau
+		Hamel
+		Hebert
+		Jalbert
+		Langelier
+		Langevin
+		Laviolette
+		Leblanc
+		Lemesurier
+		Loughry
+		Marchand
+		Masson
+		Meloche
+		Mercier
+		Morrin
+		Nantel
+		Ouimet
+		Painchaud
+		Parent
+		Peladeau
+		Pellerin
+		Robitaille
+		Rodier
+		Ross
+		Senecal
+		Simard
+		Tache
+		Taillon
+		Tanguay
+		Tessier
+		Vallieres
+		Viger
+	}
+	graphics = european
+	ethnicities = {
+		1 = caucasian
+	}
+}
+maliseet={
+	color= rgb{ 74 54 16 }
+	religion = animist
+	traits = { indigenous_american_heritage north_american_group }
+	male_common_first_names={
+		Akwiraron Akwirente
+		Domagaya
+		Ga-Na-Gua Guyasuta Ganio-dai-io Gyantwachia
+		Hadawa-ko Hayonhwonhish Honayawas Hutgohsodoneh
+		Kaintwakon
+		Skenandoa Sganyodaiyo Sakokwenionkwas Sagoyewatha Sayenqueraghta Sigwaahdohgwih Sosondowa
+		Tanacharison Thaonawyuthe Tejonihokarawa Taignoagny Tewahangarahken 
+	}
+	female_common_first_names = {
+		Akat Alliquippa
+		Dehhewanis
+		Gahonnoneh Gowongo
+		Kaniehtiio Kateri Kawisenhawe
+		Lydia
+		Tekakwitha Tyonajanegen
+	}
+	noble_last_names = {
+		Abeel
+		Brant Blacksnake
+		Chaussi Cornplanter
+	}
+	common_last_names={
+		Bennett Buck Brant
+		Crants
+		Gibson
+		Heron Hubbard
+		Jemison
+		Lyons Longboat
+		Mohawk Montour
+		Pallan Parker Pierce Plummer
+		Seneca Steele
+		Watt
+	}
+	ethnicities = {
+		1 = native_american
+	}
+	graphics = decentralised_americas
+}

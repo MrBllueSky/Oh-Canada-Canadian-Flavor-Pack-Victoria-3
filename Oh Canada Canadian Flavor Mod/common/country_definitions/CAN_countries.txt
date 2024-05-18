@@ -1,0 +1,95 @@
+﻿HBC = {
+	color = { 99 91 69 }
+	
+	country_type = colonial
+	
+	tier = principality
+	
+	cultures = { anglo_canadian }
+	capital = STATE_MANITOBA
+}
+QUE = {
+	color = { 194  140  86 }
+	
+	country_type = colonial
+	
+	tier = principality
+	
+	cultures = { franco_canadian }
+	capital = STATE_QUEBEC
+	
+	is_named_from_capital = yes
+}
+ONT = {
+	color = { 136 72 91 }
+	
+	country_type = colonial
+	
+	tier = principality
+	
+	cultures = { anglo_canadian }
+	capital = STATE_ONTARIO
+	is_named_from_capital = yes
+}
+NBS = {
+	color = { 235 196 128 }
+	
+	country_type = colonial
+	
+	tier = principality
+	
+	cultures = { anglo_canadian acadian }
+	capital = STATE_NEW_BRUNSWICK
+}
+
+PEI = {
+	color = { 163 246 247 }
+	
+	country_type = colonial
+	
+	tier = principality
+	
+	cultures = { anglo_canadian }
+	capital = STATE_NEW_BRUNSWICK
+}
+NEW = {
+	color = { 224 224 31 }
+	
+	country_type = colonial
+	
+	tier = principality
+	
+	cultures = { anglo_canadian }
+	capital = STATE_NEWFOUNDLAND
+}
+ARC = {
+	color = { 158 239 240 }
+	
+	country_type = colonial
+	
+	tier = principality
+	
+	cultures = { acadian }
+	capital = STATE_NEW_BRUNSWICK
+}
+
+NVS = {
+	color = { 148 205 135 }
+	
+	country_type = colonial
+	
+	tier = principality
+	
+	cultures = { anglo_canadian }
+	capital = STATE_NEW_BRUNSWICK
+}
+MLI = {
+	color = { 133 96 28 }
+	
+	country_type = decentralized
+	
+	tier = principality
+	
+	cultures = { maliseet }
+	capital = STATE_MAINE
+}
